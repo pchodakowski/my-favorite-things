@@ -12,3 +12,6 @@ Every year I have the same goal - read 50 books. It's not often that I achieve t
 ## My Recommendations
 
 "[A Seat at the Table: IT Leadership in the Age of Agility](https://www.amazon.com/dp/B075TD7JJ3/ref=cm_sw_em_r_mt_dp_U_QC2jEbFQGC81W)" by Mark Schwartz
+
+_I highly recommend this book for any leader/manager/aspiring manager - whether in IT or not. I believe this should be a must read for all executives._
+
