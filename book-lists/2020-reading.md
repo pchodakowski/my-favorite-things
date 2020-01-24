@@ -1,13 +1,13 @@
 ### DONE: 
-2 books, 596 pages, 0 audiobooks
+3 books, 843 pages, 0 audiobooks
 
 - Product Mastery (270)
 - Inspired (326)
+- Start With Why (247)
 
 ### READING:
 - Curious (Audio)
 - Connected (305)
-- Start With Why (247)
 - Nine Pints (287)
 
 ### TO READ (no particular order):
